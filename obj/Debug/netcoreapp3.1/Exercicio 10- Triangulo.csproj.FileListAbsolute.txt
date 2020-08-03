@@ -1,0 +1,13 @@
+C:\repo\Exercicio 10- Triangulo\bin\Debug\netcoreapp3.1\Exercicio 10- Triangulo.exe
+C:\repo\Exercicio 10- Triangulo\bin\Debug\netcoreapp3.1\Exercicio 10- Triangulo.deps.json
+C:\repo\Exercicio 10- Triangulo\bin\Debug\netcoreapp3.1\Exercicio 10- Triangulo.runtimeconfig.json
+C:\repo\Exercicio 10- Triangulo\bin\Debug\netcoreapp3.1\Exercicio 10- Triangulo.runtimeconfig.dev.json
+C:\repo\Exercicio 10- Triangulo\bin\Debug\netcoreapp3.1\Exercicio 10- Triangulo.dll
+C:\repo\Exercicio 10- Triangulo\bin\Debug\netcoreapp3.1\Exercicio 10- Triangulo.pdb
+C:\repo\Exercicio 10- Triangulo\obj\Debug\netcoreapp3.1\Exercicio 10- Triangulo.csprojAssemblyReference.cache
+C:\repo\Exercicio 10- Triangulo\obj\Debug\netcoreapp3.1\Exercicio 10- Triangulo.AssemblyInfoInputs.cache
+C:\repo\Exercicio 10- Triangulo\obj\Debug\netcoreapp3.1\Exercicio 10- Triangulo.AssemblyInfo.cs
+C:\repo\Exercicio 10- Triangulo\obj\Debug\netcoreapp3.1\Exercicio 10- Triangulo.csproj.CoreCompileInputs.cache
+C:\repo\Exercicio 10- Triangulo\obj\Debug\netcoreapp3.1\Exercicio 10- Triangulo.dll
+C:\repo\Exercicio 10- Triangulo\obj\Debug\netcoreapp3.1\Exercicio 10- Triangulo.pdb
+C:\repo\Exercicio 10- Triangulo\obj\Debug\netcoreapp3.1\Exercicio 10- Triangulo.genruntimeconfig.cache
